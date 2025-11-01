@@ -1,3 +1,7 @@
+#to run use the below commands
+#pip install pygame
+#python intelligent_tictactoe_gui.py
+
 import pygame
 import sys
 import math
@@ -175,3 +179,4 @@ while True:
                 game_over = False
 
     pygame.display.update()
+
